@@ -1,6 +1,6 @@
 # 综述目录
 
-## [一、 感知与交互](一、 感知与交互/一、 感知与交互.md)
+## [一、 感知与交互](一、感知与交互/一、感知与交互.md)
 
 1. 计算语言学与自然语言处理 (Computational Linguistics & NLP)
 2. 计算机视觉 (Computer Vision)
@@ -18,14 +18,14 @@
 5. 嵌入式系统与边缘智能 (Embedded Systems & Edge Intelligence)
 6. 可信 AI 与伦理治理 (Trustworthy AI & Ethical Governance)
 
-## [三、 学习、推理与决策](三、 学习、推理与决策/三、 学习、推理与决策.md)
+## [三、学习、推理与决策](三、学习、推理与决策/三、学习、推理与决策.md)
 
 1. 强化学习与决策系统（Reinforcement Learning & Decision Systems）
 2. 多智能体系统与博弈论 (Multi‑Agent Systems & Game Theory)
 3. 自然语言推理与逻辑 AI (Natural Language Inference & Logical AI)
 4. 智能推荐系统 (Intelligent Recommender Systems)
 
-## [四、 交叉与未来](四、 交叉与未来/四、 交叉与未来.md)
+## [四、交叉与未来](四、交叉与未来/四、交叉与未来.md)
 
 1. AI + 金融科技 (AI in Finance & Fintech)
 2. AI + 医疗与生命科学交叉 (AI in Healthcare & Life Sciences)
